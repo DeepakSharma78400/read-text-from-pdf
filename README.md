@@ -5,7 +5,7 @@ How to read text from the PDF
 ### What is Required ? ###
 
 * php installation
-* Appache
+* Apache
 * vsCode
 * Download this library(https://github.com/jpwright/debcite/blob/master/class.pdf2text.php)
 
@@ -24,7 +24,7 @@ Past the below code in the index.php file
 Put a pdf file in the same folder and change the file in index.php file
 
 # Step5:
-Now hit the index file on browser you will get the pdf text.
+Now hit the index file on browser you will get the pdf text, read text from the pdf, convert pdf to text in php
 
 
 ### Contribution guidelines ###
@@ -38,3 +38,5 @@ Now hit the index file on browser you will get the pdf text.
 * Repo owner
 
 ### Thanks You
+TechTechInfo.com
+https://techtechinfo.com/how-to-read-the-text-from-pdf-in-php/
